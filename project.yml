@@ -7,3 +7,8 @@ packages:
           memory: 256
 environment:
   DATABASE_URL: ${DATABASE_URL}
+  CERT_DATA:  ${CERT_DATA}
+  DATABASE: ${DATABASE}
+  DATABASE_PASSWORD:  ${DATABASE_PASSWORD}
+  NODE_ENV: ${NODE_ENVL}
+  TEST: ${TEST}
